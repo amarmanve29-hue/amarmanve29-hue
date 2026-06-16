@@ -19,8 +19,8 @@ This project analyzes employee attrition, satisfaction, and workforce trends usi
 
 ## Dashboard Preview
 
-![Dashboard](<img width="890" height="499" alt="Ecommerce Dashoard" src="https://github.com/user-attachments/assets/b829fc67-fb34-4537-ad68-4498a2ef9f22" />
-)
+![Dashboard](<img width="890" height="499" alt="Ecommerce Dashoard" src="https://github.com/user-attachments/assets/a8fdcbf8-6991-4006-bfab-a8c7feeb7edb" />
+
 
 ## Key Insights
 
