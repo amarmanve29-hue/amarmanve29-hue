@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋, I'm Amar Manve
 
-<!--
-**amarmanve29-hue/amarmanve29-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Analyst
 
-Here are some ideas to get you started:
+📊 Power BI
+📈 Tableau
+🗄 SQL
+📑 Excel
+🐍 Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- Learning Data Analytics
+- Building Dashboard Projects
+- Looking for Data Analyst Opportunities
+
+### Skills
+
+Power BI | Tableau | SQL | Excel | Python
+
+### Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/amar-manve-a967601b4/
+Email: amarmanve29@gmail.com
