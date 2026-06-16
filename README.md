@@ -1,24 +1,32 @@
-# Hi 👋, I'm Amar Manve
+# Ecommerce Analysis Dashboard
 
-## Aspiring Data Analyst
+## Project Overview
 
-📊 Power BI
-📈 Tableau
-🗄 SQL
-📑 Excel
-🐍 Python
+This project analyzes employee attrition, satisfaction, and workforce trends using Power BI.
 
-### About Me
+## Tools Used
 
-- Learning Data Analytics
-- Building Dashboard Projects
-- Looking for Data Analyst Opportunities
+- Power BI
+- Excel
+- DAX
 
-### Skills
+## KPIs
 
-Power BI | Tableau | SQL | Excel | Python
+- Total Employees
+- Attrition Rate
+- Average Age
+- Job Satisfaction
 
-### Connect With Me
+## Dashboard Preview
 
-LinkedIn: https://www.linkedin.com/in/amar-manve-a967601b4/
-Email: amarmanve29@gmail.com
+![Dashboard](images/dashboard.png)
+
+## Key Insights
+
+1. Highest attrition observed in Sales Department.
+2. Employees aged 26-35 have the highest turnover.
+3. Job satisfaction impacts retention.
+
+## Author
+
+Amar Manve
